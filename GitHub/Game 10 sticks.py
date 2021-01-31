@@ -15,5 +15,3 @@ while number_of_sticks > 0:
         print(f'Нет больше палочек в игре. \n Игрок {player_turn} проиграл!')
 
     player_turn = 1 if player_turn == 2 else 2
-    print('Congratulation')
-
